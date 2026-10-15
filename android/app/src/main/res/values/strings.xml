@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jadwal Sholat Masjid</string>
+    <string name="default_mosque_name">As Syafir</string>
+    <string name="default_mosque_subtitle">KJRI Kuching, Sarawak, Malaysia</string>
+    <string name="sample_data_warning">DATA CONTOH — belum untuk penggunaan nyata</string>
+    <string name="next_prayer_label">Waktu Berikutnya</string>
+    <string name="default_announcement">Selamat Datang di Masjid As Syafir KJRI Kuching · Harap luruskan dan rapatkan shaf sholat · Nonaktifkan nada dering ponsel.</string>
+</resources>

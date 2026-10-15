@@ -1,0 +1,12 @@
+<resources>
+    <!-- Palet Warna Islami Elegan untuk Display Layar TV Masjid As Syafir -->
+    <color name="bg_emerald_dark">#032B21</color>
+    <color name="bg_emerald_card">#073C2E</color>
+    <color name="bg_card_highlight">#0C4D3C</color>
+    <color name="gold_primary">#D97706</color>
+    <color name="gold_soft">#FBBF24</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_subtle">#A7F3D0</color>
+    <color name="warning_banner_bg">#78350F</color>
+    <color name="warning_banner_border">#F59E0B</color>
+</resources>
